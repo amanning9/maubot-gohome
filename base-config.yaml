@@ -1,0 +1,7 @@
+command_prefix: gohome
+
+config:
+    notice_room: ""
+    users:
+      - mxid: ""
+      - mxis: ""

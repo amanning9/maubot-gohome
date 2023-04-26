@@ -1,0 +1,12 @@
+maubot: 0.1.0
+id: uk.a09.maubot.gohome
+version: 0.0.13
+license: AGPL-3.0-or-later
+modules:
+  - gohome
+#dependencies: []
+main_class: GoHomeBot
+
+config: true
+extra_files:
+  - base-config.yaml
